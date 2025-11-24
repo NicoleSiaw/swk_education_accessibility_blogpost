@@ -1,3 +1,5 @@
 WIP
-- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_1km_2020_total_population_interactive_map
-- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_1km_2020_student_population_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_2020_total_population_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_1km_student_population_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_secondary_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_primary_interactive_map
