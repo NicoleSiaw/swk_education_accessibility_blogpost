@@ -4,7 +4,7 @@ WIP
 - https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_secondary_interactive_map
 - https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_primary_interactive_map
 - https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/district_median_iqr_time_plot
-- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/swk_travel_time_change_interactive_map
-- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/swk_travel_mode_change_interactive_map
-- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/swk_travel_time_category_primary_interactive_map
-- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/swk_travel_time_category_secondary_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_change_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_mode_change_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_category_primary_interactive_map
+- https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_category_secondary_interactive_map
