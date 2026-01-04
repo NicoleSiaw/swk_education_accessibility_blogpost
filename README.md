@@ -1,13 +1,13 @@
 WIP
 
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_2020\_total\_population\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_1km\_student\_population\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_combined\_routes\_secondary\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_combined\_routes\_primary\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Charts/district\_median\_iqr\_time\_plot
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_travel\_time\_change\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_travel\_mode\_change\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_travel\_time\_category\_primary\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_travel\_time\_category\_secondary\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_sekolah\_daif\_primary\_interactive\_map
-* https://nicolesiaw.github.io/swk\_education\_accessibility\_blogpost/Interactive%20Maps/swk\_sekolah\_daif\_secondary\_interactive\_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_2020_total_population_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_1km_student_population_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_secondary_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_primary_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/district_median_iqr_time_plot
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_change_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_mode_change_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_category_primary_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_category_secondary_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_sekolah_daif_primary_interactive_map
+* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_sekolah_daif_secondary_interactive_map
