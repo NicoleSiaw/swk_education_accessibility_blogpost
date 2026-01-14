@@ -1,13 +1,55 @@
+# Mapping the Accessibility of Schools in Sarawak, Malaysia
+
+## Overview
+This repository contains the final result outputs and charts used in the blogpost *Mapping the Accessibility of Schools in Sarawak, Malaysia*. This study focuses on understanding (inaccessibility) of schools in Sarawak by mapping out granular population patterns in Sarawak, and calculating the route, travel mode, distance as well as travel time to the nearest school.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e144c796-cede-48a0-83a6-1a54470fd202" />
+
+
+---
+
+## Key Features
+- **Geography**: Sarawak, Malaysia 
+- **Time Period**: 2020
+- **Methodologies And Sources**: WorldPop, Open Source Routing Machine (OSRM)
+- **Key Outputs**:
+  - Manually refined version of WorldPop 1km x 1km population count estimates for Sarawak
+  - Manually refined version of school location and student counts in Sarawak
+  - OSRM calculated routes to the nearest school using foot, car and boat routes
+  - Interactive maps visualising population counts, schools, and routes
+  - A detailed writeup at nicolesiaw.com
+
+-- 
+
+## File Structure
 WIP
 
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_2020_total_population_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_1km_student_population_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_secondary_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_combined_routes_primary_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Charts/district_median_iqr_time_plot
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_change_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_mode_change_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_category_primary_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_travel_time_category_secondary_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_sekolah_daif_primary_interactive_map
-* https://nicolesiaw.github.io/swk_education_accessibility_blogpost/Interactive%20Maps/swk_sekolah_daif_secondary_interactive_map
+-- 
+
+## Other Links
+- **Original blogpost**
+- **Technical notes**
+
+-- 
+
+## Key Findings
+WIP
+
+--
+
+# Contributors
+This study was conducted by Nicole Siaw. Please contact for queries or feedback.
+
+-- 
+
+# References
+WIP
+
+-- 
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+-- 
+
+Feel free to adjust further to align with your specific goals!
