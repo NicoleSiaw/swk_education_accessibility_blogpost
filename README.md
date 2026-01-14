@@ -19,7 +19,7 @@ Original blogpost can be found on [nicolesiaw.com](nicolesiaw.com)
   - Manually refined version of school location and student counts in Sarawak
   - OSRM calculated routes to the nearest school using foot, car and boat routes
   - Interactive maps visualising population counts, schools, and routes
-  - A detailed writeup at nicolesiaw.com
+  - Detailed writeup can be read at nicolesiaw.com
 
 --- 
 
