@@ -1,7 +1,7 @@
 # Mapping the Accessibility of Schools in Sarawak, Malaysia
 
 ## Overview
-This repository contains the final result outputs and charts used in the blogpost *Mapping the Accessibility of Schools in Sarawak, Malaysia*. This study focuses on understanding (inaccessibility) of schools in Sarawak by mapping out granular population patterns in Sarawak, and calculating the route, travel mode, distance as well as travel time to the nearest school.
+This repository contains the final result outputs and charts used in the blogpost *Mapping the Accessibility of Schools in Sarawak, Malaysia*. This study focuses on understanding (in)accessibility of schools in Sarawak by mapping out granular population patterns in Sarawak, then calculating the route, travel mode, distance and travel time to the nearest school.
 
 Original blogpost can be found on [nicolesiaw.com](nicolesiaw.com)
 
@@ -19,7 +19,7 @@ Original blogpost can be found on [nicolesiaw.com](nicolesiaw.com)
   - Manually refined version of school location and student counts in Sarawak
   - OSRM calculated routes to the nearest school using foot, car and boat routes
   - Interactive maps visualising population counts, schools, and routes
-  - Detailed writeup can be read at nicolesiaw.com
+  - Detailed writeup at nicolesiaw.com
 
 --- 
 
