@@ -41,7 +41,7 @@ Original blogpost can be found on [nicolesiaw.com](https://nicolesiaw.com/mappin
 - **`Roads and Waterways/`**: OpenStreetMap infrastructure data for available roads and waterways in Sarawak.
 - **`School Data/`**: Data on all schools in Sarawak, including dilapidated schools, scraped from MOE in Jan 2026.
 - **`Technical Notes/`**: Detailed methodological description and assumptions used in the production of this dataset and blogpost.
-- All other jupyter notebook scripts in this repository are scripts use to generate charts used in the final blogpost. 
+- All other jupyter notebooks in this repository are the scripts use to generate charts used in the final blogpost. 
 
 ## Other Links
 - [**Original blogpost**](https://nicolesiaw.com/mapping-the-accessibility-of-schools-in-sarawak-malaysia/)
