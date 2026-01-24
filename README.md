@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the final result outputs and charts used in the blogpost *Mapping the Accessibility of Schools in Sarawak, Malaysia*. This study focuses on understanding (in)accessibility of schools in Sarawak by mapping out granular population patterns in Sarawak, then calculating the route, travel mode, distance and travel time to the nearest school.
 
-Original blogpost can be found on [nicolesiaw.com](nicolesiaw.com)
+Original blogpost can be found on [nicolesiaw.com](https://nicolesiaw.com/mapping-the-accessibility-of-schools-in-sarawak-malaysia/)
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e144c796-cede-48a0-83a6-1a54470fd202" />
 
@@ -19,8 +19,7 @@ Original blogpost can be found on [nicolesiaw.com](nicolesiaw.com)
   - Manually refined version of school location and student counts in Sarawak
   - OSRM calculated routes to the nearest school using foot, car and boat routes
   - Interactive maps visualising population counts, schools, and routes
-  - Detailed writeup at nicolesiaw.com
-
+  - Detailed writeup at [nicolesiaw.com](https://nicolesiaw.com/mapping-the-accessibility-of-schools-in-sarawak-malaysia/)
 --- 
 
 ## File Structure
