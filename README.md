@@ -73,6 +73,11 @@ This study was conducted by Nicole Siaw. Please contact for queries or feedback.
 
 ---
 
+## Changelog
+- 01/02/2026 - First published
+
+---
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
