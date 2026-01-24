@@ -1,0 +1,3 @@
+foot: https://github.com/Project-OSRM/osrm-backend/tree/master/profiles
+car_offroad: modified, based off https://github.com/Project-OSRM/osrm-backend/tree/master/profiles
+boat: self-written

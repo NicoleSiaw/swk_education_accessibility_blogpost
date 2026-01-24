@@ -1,0 +1,5 @@
+- School data: https://docs.google.com/spreadsheets/d/18Uh1UtPHDoo7WM38ax8A1BzH7fvQOnKKr4V0P9w1QfU/edit?gid=116403455#gid=116403455 (downloaded on 3rd Jan 2026)
+- Sekolah Daif data: https://projekdaif.moe.gov.my/ (scraped on 3rd Jan 2026)
+- Private school data: https://en.wikipedia.org/wiki/List_of_schools_in_Sarawak
+
+Note that some school locations have been manually updated and will not match the original source exactly.

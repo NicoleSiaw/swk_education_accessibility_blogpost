@@ -1,0 +1,7 @@
+The sources for each file is as follows:
+- State GeoJSON: https://github.com/dosm-malaysia/data-open/tree/main/datasets/geodata
+- District GeoJSON: https://gist.github.com/angch/4bbbaa72ba0a9c95bfda951ca82b748f
+- Parliament GeoJSON: https://github.com/dosm-malaysia/data-open/tree/main/datasets/geodata
+- DUN GeoJSON:https://github.com/dosm-malaysia/data-open/tree/main/datasets/geodata
+
+All files were accessed on 15 Jul 2025

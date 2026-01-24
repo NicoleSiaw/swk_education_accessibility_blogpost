@@ -1,0 +1,11 @@
+Source:
+- Roads: https://data.humdata.org/dataset/hotosm_mys_roads
+- Waterway: https://data.humdata.org/dataset/hotosm_mys_waterways
+
+The original file was too large to be uploaded to GitHub. So I converted it into a GeoParquet form, cropped it to the Sarawak portion only. Then saved it here as a copy
+
+--- Original Readme ---
+Exported Timestamp (UTC+0000): 2025-08-01 22:56:04
+Exported through Raw-data-api (https://github.com/hotosm/raw-data-api) using OpenStreetMap data.
+ Exports are made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/. 
+ Learn more about OpenStreetMap and its data usage policy : https://www.openstreetmap.org/about 
