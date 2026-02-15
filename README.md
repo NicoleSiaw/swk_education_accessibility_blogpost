@@ -34,7 +34,6 @@ Original blogpost can be found on [nicolesiaw.com](https://nicolesiaw.com/mappin
 - **`Interactive Maps/`**: Interactive html maps used in the main blog post.
 - **`OSRM Profiles/`**: OSRM profiles (boat, car, and foot) used to calculate the each mode of travel using OSRM.
 - **`OSRM Routes to Nearest School/`**: Calculated OSRM route results to the nearest school for each travel mode (boat, car and foot) for both primary and secondary school.
-- **`Interactive Charts/`**: Interactive html charts used in the main blog post.
 - **`Population Data/`**: Manually adjusted population data at 1km resolution broken down by age and sex, based off WorldPop Global 1 population estimates.
 - **`Roads and Waterways/`**: OpenStreetMap infrastructure data for available roads and waterways in Sarawak.
 - **`School Data/`**: Data on all schools in Sarawak, including dilapidated schools, scraped from MOE in Jan 2026.
